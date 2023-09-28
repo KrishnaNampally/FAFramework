@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = 'FAFramework'
+  spec.name         = 'FirebaseFramework'
   spec.version      = '0.0.1'
   spec.summary      = 'Firebase framework'
   spec.description  = <<-DESC
