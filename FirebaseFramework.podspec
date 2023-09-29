@@ -13,8 +13,7 @@ Pod::Spec.new do |spec|
   spec.source       = { :git => 'https://github.com/KrishnaNampally/FAFramework.git', :tag => spec.version }
 
   spec.vendored_frameworks = 'FirebaseFramework.xcframework'
-  spec.exclude_files = "Classes/Exclude"
-  spec.requires_arc = true
+
   
 end
 
